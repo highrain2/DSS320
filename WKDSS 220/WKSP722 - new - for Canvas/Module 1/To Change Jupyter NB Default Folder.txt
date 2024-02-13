@@ -1,7 +1,0 @@
-To change the default folder to the place you want, open the Anaconda command prompt and type the following (for Windows):
-jupyter notebook --notebook-dir="Path of new folder"
-
-Example
-jupyter notebook --notebook-dir="C:\Users\hiren\Documents\WKSP 220\WKSP722 - new - for Canvas"
-
-Then open Jupyter Notebook again from the command prompt and it should open to the folder you defined above.  
